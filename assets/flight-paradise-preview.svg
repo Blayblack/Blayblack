@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-label="FLIGHT PARADISE 3D: ilustração conceitual estática">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#05100e"/><stop offset=".56" stop-color="#0c1d19"/><stop offset="1" stop-color="#03100e"/></linearGradient>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#39d8ef"/><stop offset="1" stop-color="#0e8963"/></linearGradient>
+<linearGradient id="screen" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#152a26"/><stop offset="1" stop-color="#091511"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#224739" stroke-width=".65"/></pattern>
+</defs>
+<rect width="1200" height="675" rx="24" fill="url(#bg)"/><rect width="1200" height="675" rx="24" fill="url(#grid)" opacity=".45"/>
+<rect x="26" y="27" width="1148" height="621" rx="19" fill="none" stroke="#225945" stroke-width="2"/>
+<circle cx="60" cy="56" r="6" fill="#ff7777"/><circle cx="81" cy="56" r="6" fill="#ffcd6c"/><circle cx="102" cy="56" r="6" fill="#39d8ef"/>
+<text x="141" y="63" fill="#659e83" font-size="17" font-family="monospace">BLAYBLACK // PROJECT SHOWCASE</text>
+<rect x="904" y="37" width="230" height="37" rx="16" fill="#103327" stroke="#257d54"/>
+<text x="1019" y="61" text-anchor="middle" fill="#99f6c7" font-size="15" font-family="monospace">VISUAL CONCEITUAL</text>
+<text x="69" y="120" fill="#edfff4" font-family="Arial,sans-serif" font-size="46" font-weight="bold">FLIGHT PARADISE 3D</text>
+<text x="72" y="150" fill="#80bda0" font-family="monospace" font-size="18">Android  |  Simulador de voo  |  Ilha tropical</text>
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#67d3e5"/><stop offset=".8" stop-color="#b7ecda"/><stop offset="1" stop-color="#68d1ca"/></linearGradient>
+<linearGradient id="ocean" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#147eaa"/><stop offset=".55" stop-color="#16bdc7"/><stop offset="1" stop-color="#064a83"/></linearGradient>
+<linearGradient id="land" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#6bd575"/><stop offset="1" stop-color="#146e38"/></linearGradient></defs>
+<clipPath id="landclip"><rect x="65" y="174" width="1068" height="402" rx="15"/></clipPath>
+<g clip-path="url(#landclip)">
+<rect x="65" y="174" width="1068" height="190" fill="url(#sky)"/>
+<rect x="65" y="344" width="1068" height="232" fill="url(#ocean)"/>
+<path d="M65 369Q190 339 300 375T548 371T784 378T1133 361" stroke="#d4fff5" stroke-width="4" fill="none" opacity=".6"/>
+<path d="M245 464Q350 363 464 368Q540 317 619 343Q682 347 751 387Q837 399 910 460Q940 509 865 530Q773 559 660 526Q503 578 370 534Q244 548 219 508Z" fill="#e6d78b"/>
+<path d="M260 466Q353 397 467 399Q539 351 616 366Q689 379 758 414Q841 438 866 475Q806 517 680 503Q536 542 399 511Q300 516 260 466Z" fill="url(#land)"/>
+<path d="M424 460L470 398 507 463 555 392 597 463 651 403 717 478" fill="none" stroke="#124d35" stroke-width="18" stroke-linecap="round"/>
+<path d="M423 441L471 380 506 444 555 380 598 438 647 393 716 451" fill="none" stroke="#348e56" stroke-width="14" stroke-linecap="round"/>
+<g fill="#0f673d"><circle cx="357" cy="460" r="24"/><circle cx="384" cy="478" r="18"/><circle cx="755" cy="460" r="21"/><circle cx="803" cy="478" r="22"/><circle cx="650" cy="474" r="22"/></g>
+<g transform="translate(628 335) rotate(-14)">
+<path d="M-30 5L-211 60-217 86-22 55 12 174 40 180 43 54 213 83 218 64 44 2 42-102 7-107-5 3-42-10-97-83-128-79Z" fill="#e9f5f3" stroke="#164a53" stroke-width="6"/>
+<path d="M-1 12L6-61 27-62 25 14Z" fill="#326d82"/><path d="M-211 60L-136 61M147 67L212 83" stroke="#36c5d6" stroke-width="10"/>
+</g>
+<g opacity=".84" stroke="#e7fff7" fill="none"><path d="M112 225l-30 0v30M1094 225h30v30M112 535H82v-30M1094 535h30v-30" stroke-width="4"/><path d="M569 280h60m-30-31v61" stroke-width="2" stroke-dasharray="10 9"/></g>
+<rect x="85" y="194" width="248" height="67" rx="10" fill="#082e35" opacity=".86"/>
+<text x="106" y="218" fill="#eafff6" font-family="monospace" font-size="17">FLIGHT PARADISE 3D</text>
+<text x="106" y="243" fill="#9eebec" font-family="monospace" font-size="15">CENÁRIO ILUSTRATIVO</text>
+<rect x="862" y="194" width="244" height="91" rx="10" fill="#082e35" opacity=".86"/>
+<text x="883" y="220" fill="#cffdff" font-size="16" font-family="Arial">Planejado para o jogo</text>
+<text x="883" y="245" fill="#e9fffa" font-size="15" font-family="Arial">Ilha • Mar • Cabine</text>
+<text x="883" y="267" fill="#e9fffa" font-size="15" font-family="Arial">Aviões • Controles</text>
+</g>
+<rect x="65" y="174" width="1068" height="402" rx="15" fill="none" stroke="#73bac0" stroke-width="3"/><rect x="45" y="611" width="1110" height="24" rx="4" fill="#081910" opacity=".95"/>
+<text x="63" y="629" fill="#86b9a0" font-size="14" font-family="monospace">STATIC PREVIEW • NO APP EXECUTION • NOT A REAL SCREENSHOT</text>
+</svg>
