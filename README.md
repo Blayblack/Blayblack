@@ -16,7 +16,7 @@ $ whoami
 blayblack@terminal
 
 $ cat about.txt
-> Estudante de Análise e Desenvolvimento de Sistemas (Estácio)
+> Estudante de Análise e Desenvolvimento de Sistemas
 > Experiência com suporte técnico e infraestrutura de TI
 > Interesse em Linux, automação, desenvolvimento e cibersegurança
 
