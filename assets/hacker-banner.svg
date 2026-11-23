@@ -26,7 +26,7 @@
 <text x="242" y="24" text-anchor="middle" fill="#9fc7af" font-family="monospace" font-size="13">blayblack@terminal: ~</text>
 <g font-family="monospace" font-size="18">
 <text x="24" y="78" fill="#51f59b">➜ ~ <tspan fill="#e1ffec">whoami</tspan></text>
-<text x="24" y="108" fill="#acdec3">vinicius / blayblack</text>
+<text x="24" y="108" fill="#acdec3">blayblack / developer</text>
 <text x="24" y="145" fill="#51f59b">➜ ~ <tspan fill="#e1ffec">cat mission.txt</tspan></text>
 <text x="24" y="174" fill="#acdec3">build secure and useful things</text>
 <text x="24" y="201" fill="#51f59b">➜ ~ <tspan fill="#65ffb1">_</tspan></text>
