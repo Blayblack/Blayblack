@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-label="PULSO DESKTOP: ilustração conceitual estática">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#05100e"/><stop offset=".56" stop-color="#0c1d19"/><stop offset="1" stop-color="#03100e"/></linearGradient>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#29f49f"/><stop offset="1" stop-color="#0e8963"/></linearGradient>
+<linearGradient id="screen" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#152a26"/><stop offset="1" stop-color="#091511"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#224739" stroke-width=".65"/></pattern>
+</defs>
+<rect width="1200" height="675" rx="24" fill="url(#bg)"/><rect width="1200" height="675" rx="24" fill="url(#grid)" opacity=".45"/>
+<rect x="26" y="27" width="1148" height="621" rx="19" fill="none" stroke="#225945" stroke-width="2"/>
+<circle cx="60" cy="56" r="6" fill="#ff7777"/><circle cx="81" cy="56" r="6" fill="#ffcd6c"/><circle cx="102" cy="56" r="6" fill="#29f49f"/>
+<text x="141" y="63" fill="#659e83" font-size="17" font-family="monospace">BLAYBLACK // PROJECT SHOWCASE</text>
+<rect x="904" y="37" width="230" height="37" rx="16" fill="#103327" stroke="#257d54"/>
+<text x="1019" y="61" text-anchor="middle" fill="#99f6c7" font-size="15" font-family="monospace">VISUAL CONCEITUAL</text>
+<text x="69" y="120" fill="#edfff4" font-family="Arial,sans-serif" font-size="46" font-weight="bold">PULSO DESKTOP</text>
+<text x="72" y="150" fill="#80bda0" font-family="monospace" font-size="18">Windows  |  Monitoramento  |  Ferramentas de segurança</text>
+<g transform="translate(69 184)">
+<rect width="1058" height="404" rx="17" fill="#07120f" stroke="#2a7e56" stroke-width="3"/>
+<rect width="1058" height="43" rx="15" fill="#173329"/><rect y="32" width="1058" height="11" fill="#173329"/>
+<circle cx="27" cy="22" r="6" fill="#ff7070"/><circle cx="47" cy="22" r="6" fill="#ffca6b"/><circle cx="67" cy="22" r="6" fill="#4bffac"/>
+<text x="91" y="28" font-family="monospace" font-size="15" fill="#bde9d0">Pulso Desktop / Interface conceitual</text>
+<rect y="43" width="230" height="361" fill="#0e241c"/>
+<text x="28" y="90" font-family="Arial" font-weight="bold" fill="#79ffb0" font-size="29">PULSO<tspan fill="#d9fff0">.</tspan></text>
+<rect x="14" y="119" width="205" height="43" rx="10" fill="#1a5336"/>
+<text x="35" y="147" fill="#b6ffce" font-family="Arial" font-size="17">▣  Visão geral</text>
+<text x="35" y="202" fill="#93bfa8" font-family="Arial" font-size="17">◇  Segurança</text>
+<text x="35" y="248" fill="#93bfa8" font-family="Arial" font-size="17">⌘  Rede</text>
+<text x="35" y="294" fill="#93bfa8" font-family="Arial" font-size="17">▦  Ferramentas</text>
+<text x="35" y="340" fill="#93bfa8" font-family="Arial" font-size="17">⚙  Configurações</text>
+<text x="268" y="85" font-family="Arial" font-weight="bold" font-size="25" fill="#e5ffee">Painel de controle</text>
+<text x="269" y="110" font-family="Arial" font-size="16" fill="#8db9a1">Arquitetura visual • indicadores ilustrativos</text>
+<g transform="translate(260 131)">
+<rect width="242" height="108" rx="14" fill="#133b2b" stroke="#2e7352"/>
+<text x="19" y="30" fill="#b3ddc6" font-size="16" font-family="Arial">Status do painel</text><text x="19" y="67" fill="#65ffae" font-size="28" font-family="Arial" font-weight="bold">VISÃO GERAL</text>
+<text x="19" y="88" fill="#8cbca4" font-size="13" font-family="Arial">Sem conexão a um motor real</text>
+<rect x="257" width="242" height="108" rx="14" fill="#10291f" stroke="#2e7352"/>
+<text x="278" y="30" fill="#b3ddc6" font-size="16" font-family="Arial">Módulos</text>
+<text x="278" y="66" fill="#e8ffef" font-size="23" font-family="Arial">Análise • Rede</text>
+<text x="278" y="88" fill="#8cbca4" font-size="13" font-family="Arial">Estrutura de interface</text>
+<rect x="514" width="242" height="108" rx="14" fill="#10291f" stroke="#2e7352"/>
+<text x="533" y="30" fill="#b3ddc6" font-size="16" font-family="Arial">Ambiente</text><text x="533" y="67" fill="#e8ffef" font-size="26" font-family="Arial">Windows</text>
+<text x="533" y="89" fill="#8cbca4" font-size="13" font-family="Arial">Aplicativo desktop</text>
+<rect y="124" width="470" height="120" rx="13" fill="#0d241b" stroke="#2d6349"/>
+<text x="20" y="151" fill="#e8fff2" font-size="17" font-family="Arial">Visão ilustrativa de atividade</text>
+<path d="M20 207L56 188 92 202 130 169 168 189 213 162 254 178 298 154 347 176 401 160 448 171" fill="none" stroke="#40efa0" stroke-width="3"/>
+<path d="M20 224h428M20 194h428M20 164h428" stroke="#28553e" stroke-width="1" stroke-dasharray="5 7"/>
+<rect x="485" y="124" width="271" height="120" rx="13" fill="#0d241b" stroke="#2d6349"/>
+<text x="502" y="152" fill="#e8fff2" font-size="17" font-family="Arial">Área de ferramentas</text>
+<rect x="506" y="174" width="107" height="44" rx="9" fill="#1c583b"/><rect x="625" y="174" width="111" height="44" rx="9" fill="#14382b"/>
+<text x="560" y="201" fill="#dcffee" font-family="Arial" text-anchor="middle" font-size="15">Arquivos</text>
+<text x="681" y="201" fill="#a4dec0" font-family="Arial" text-anchor="middle" font-size="15">Rede</text>
+</g></g><rect x="45" y="611" width="1110" height="24" rx="4" fill="#081910" opacity=".95"/>
+<text x="63" y="629" fill="#86b9a0" font-size="14" font-family="monospace">STATIC PREVIEW • NO APP EXECUTION • NOT A REAL SCREENSHOT</text>
+</svg>
