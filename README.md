@@ -13,7 +13,7 @@
 
 ```bash
 $ whoami
-vinicius@blayblack
+blayblack@terminal
 
 $ cat about.txt
 > Estudante de Análise e Desenvolvimento de Sistemas (Estácio)
