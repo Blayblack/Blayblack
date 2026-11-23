@@ -45,28 +45,55 @@ $ echo $MISSION
 
 </div>
 
-## `> ls /projects`
+## `> ls /projects --showcase`
+
+<div align="center">
+
+**PORTFÓLIO VISUAL // BLAYBLACK**
+
+<sub>Imagens estáticas criadas para apresentar o conceito dos projetos. Não são capturas de versões funcionais nem demonstrações executáveis.</sub>
+
+</div>
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛡️ Pulso Mobile Security</h3>
-      <p><strong>Em desenvolvimento</strong> · Android</p>
-      <p>Projeto de aplicativo de segurança e privacidade para Android, com foco em análise, proteção e interface acessível.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💻 Pulso Desktop</h3>
-      <p><strong>Em desenvolvimento</strong> · Windows</p>
-      <p>Projeto de ferramentas de segurança, monitoramento e gerenciamento para desktop.</p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>🧬 <a href="https://github.com/Blayblack/pulso-malware-definitions">Pulso Malware Definitions</a></h3>
-      <p>Repositório público de indicadores SHA-256, scripts e automação para atualização de definições do ecossistema Pulso. Consulte o README do projeto para requisitos e limitações.</p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+  <img src="./assets/pulso-mobile-preview.svg" width="100%" alt="Ilustração conceitual do Pulso Mobile Security: painel Android escuro com verde neon, visão de segurança, privacidade e análise de arquivos." />
+  <h3>🛡️ Pulso Mobile Security</h3>
+  <p><strong>Android · Em desenvolvimento</strong></p>
+  <p>Suíte de segurança e privacidade para Android. O projeto reúne ideias e módulos de <strong>verificação de arquivos</strong>, <strong>VPN</strong>, <strong>proteção contra spam</strong>, gerenciamento de senhas e uma central de segurança visual.</p>
+  <p><sub>Prévia de interface ilustrativa. A imagem não comprova o funcionamento desses recursos.</sub></p>
+</td>
+<td width="50%" valign="top">
+  <img src="./assets/pulso-desktop-preview.svg" width="100%" alt="Ilustração conceitual do Pulso Desktop: aplicação Windows em tema escuro, menu lateral e painéis de monitoramento." />
+  <h3>🖥️ Pulso Desktop</h3>
+  <p><strong>Windows · Em desenvolvimento</strong></p>
+  <p>Projeto de uma aplicação desktop com foco em <strong>monitoramento</strong>, <strong>segurança</strong>, <strong>ferramentas de rede</strong> e organização de funções em um dashboard moderno.</p>
+  <p><sub>Prévia conceitual do design, sem simular um antivírus em execução.</sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <img src="./assets/flight-paradise-preview.svg" width="100%" alt="Ilustração conceitual do Flight Paradise 3D: avião visto sobre ilha verde cercada por mar azul e elementos de HUD." />
+  <h3>✈️ Flight Paradise 3D</h3>
+  <p><strong>Android · Em desenvolvimento</strong></p>
+  <p>Projeto de simulador de voo 3D ambientado em uma <strong>ilha tropical</strong>, com oceano, seleção de aviões, visão de cabine e controles imersivos. <strong>Multiplayer via rede local</strong> é uma funcionalidade planejada.</p>
+  <p><sub>Arte representativa do cenário planejado, não uma captura de gameplay real.</sub></p>
+</td>
+<td width="50%" valign="top">
+  <img src="./assets/malware-definitions-preview.svg" width="100%" alt="Ilustração estática do projeto Pulso Malware Definitions: terminal com pastas de indicadores SHA-256 e símbolo de proteção." />
+  <h3>🧬 Pulso Malware Definitions</h3>
+  <p><strong>GitHub · Repositório público</strong></p>
+  <p>Repositório de <strong>indicadores SHA-256</strong> e scripts para o ecossistema Pulso. Contém uma estrutura de feed de hashes e workflow para atualizações programadas, dependentes de configuração e de serviços externos.</p>
+  <p><sub>Ilustração da estrutura. Um feed de hashes isolado não equivale a proteção antivírus completa.</sub></p>
+  <p><a href="https://github.com/Blayblack/pulso-malware-definitions">Consultar documentação do repositório</a></p>
+</td>
+</tr>
 </table>
+
+<div align="center">
+<sub><strong>SHOWCASE ONLY</strong> — Sem APK, instalador, botões para executar ou demonstrações funcionais nesta página. O código de repositórios públicos existentes permanece independente deste perfil.</sub>
+</div>
 
 ## `> cat /currently-learning`
 
