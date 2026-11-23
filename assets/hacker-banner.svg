@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+<title id="title">Blayblack — Developer and Cybersecurity</title>
+<desc id="desc">Hacker-themed dark neon-green GitHub profile banner with a terminal illustration.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#050909"/><stop offset=".57" stop-color="#071511"/><stop offset="1" stop-color="#03100a"/></linearGradient>
+  <linearGradient id="bar" x1="0" x2="1"><stop stop-color="#00e68b"/><stop offset="1" stop-color="#65ffb1"/></linearGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#0f2c20" stroke-width=".7"/></pattern>
+  <pattern id="scan" width="6" height="6" patternUnits="userSpaceOnUse"><path d="M0 5.5h1200" stroke="#64ffb1" stroke-opacity=".055"/></pattern>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="330" rx="16" fill="url(#bg)"/>
+<rect width="1200" height="330" rx="16" fill="url(#grid)" opacity=".8"/>
+<path d="M30 34H570M30 296H1190" stroke="#00e68b" stroke-opacity=".6" stroke-width="2"/>
+<path d="M30 50V280M1170 30V302" stroke="#00e68b" stroke-opacity=".18" stroke-width="2"/>
+<circle cx="38" cy="34" r="4" fill="#00e68b" filter="url(#glow)"/>
+<circle cx="1168" cy="295" r="4" fill="#00e68b" filter="url(#glow)"/>
+<text x="61" y="91" fill="#86ffbc" font-size="19" font-family="monospace" letter-spacing="3">[ ROOT ACCESS: GRANTED ]</text>
+<text x="57" y="166" fill="#e9fff2" font-size="76" font-family="Arial,Helvetica,sans-serif" font-weight="900" letter-spacing="6">BLAYBLACK</text>
+<rect x="60" y="183" width="456" height="3" fill="url(#bar)" filter="url(#glow)"/>
+<text x="61" y="218" fill="#b2d9c2" font-size="21" font-family="monospace">developer  /  linux  /  security</text>
+<text x="61" y="264" fill="#4fff9a" font-size="16" font-family="monospace" letter-spacing="2">&gt; BUILD. LEARN. SECURE. REPEAT_</text>
+<g transform="translate(650 57)">
+<rect width="485" height="219" rx="11" fill="#060e0b" stroke="#1f7150" stroke-width="2"/>
+<path d="M11 0H474Q485 0 485 11V39H0V11Q0 0 11 0Z" fill="#14291f"/>
+<circle cx="22" cy="19" r="5" fill="#ff6868"/><circle cx="42" cy="19" r="5" fill="#eab35c"/><circle cx="62" cy="19" r="5" fill="#4ee28a"/>
+<text x="242" y="24" text-anchor="middle" fill="#9fc7af" font-family="monospace" font-size="13">blayblack@terminal: ~</text>
+<g font-family="monospace" font-size="18">
+<text x="24" y="78" fill="#51f59b">➜ ~ <tspan fill="#e1ffec">whoami</tspan></text>
+<text x="24" y="108" fill="#acdec3">vinicius / blayblack</text>
+<text x="24" y="145" fill="#51f59b">➜ ~ <tspan fill="#e1ffec">cat mission.txt</tspan></text>
+<text x="24" y="174" fill="#acdec3">build secure and useful things</text>
+<text x="24" y="201" fill="#51f59b">➜ ~ <tspan fill="#65ffb1">_</tspan></text>
+</g></g>
+<rect width="1200" height="330" rx="16" fill="url(#scan)" pointer-events="none"/>
+<rect x="1" y="1" width="1198" height="328" rx="15" fill="none" stroke="#22593c" stroke-width="2"/>
+</svg>
